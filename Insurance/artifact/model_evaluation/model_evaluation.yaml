@@ -1,0 +1,5 @@
+best_model:
+  model_path: C:\Users\Swarupa\Desktop\FSDS-Insurance\Insurance-Premium-prediction-ML-project\Insurance\artifact\model_trainer\2023-01-16-18-40-03\trained_model\model.pkl
+history:
+  2023-01-16-18-40-03:
+    model_path: C:\Users\Swarupa\Downloads\Insurance Project\Insurance-Premiums\Insurance\artifact\model_trainer\2023-01-16-18-25-19\trained_model\model.pkl
