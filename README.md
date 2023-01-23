@@ -24,6 +24,15 @@ the website will use that information to generate a premium estimate. Users can 
 6.Pickle
 
 
+## ⭐ Components (MLops)
+
+1. Data Ingestion (present or scraped)
+2. Data Validation
+3. Data Transformation
+4. Data Evaluation
+5. Creating ML model
+6. Deployment of the model
+
 ### ⭐ Software and account Requirement.
 
 1. Github Account
@@ -34,25 +43,23 @@ the website will use that information to generate a premium estimate. Users can 
 
 1.Clone the repository to your local machine:
 git clone https://github.com/username/insurance-premium-prediction.git
+
 2.Navigate to the project directory:
 cd insurance-premium-prediction
+
 3.Install the required packages:
 pip install -r requirements.txt
+
 4.Run the following command to start the Flask development server:
 python app.py
 
 5.Open a web browser and navigate to http://localhost:5000
+
 6.You will be prompted to enter information about yourself, such as your age, location, and the type of insurance you are interested in
+
 7.Once the form is submitted, the tool will use the input data and the machine learning model to generate a prediction for the cost of the premium
 
-## ⭐ Components
-
-1. Data Ingestion (present or scraped)
-2. Data Validation
-3. Data Transformation
-4. Data Evaluation
-5. Creating ML model
-6. Deployment of the model
+8.For deployment we can use heroku,AWS,GCP etc. Here I deployed this project using AWS, Steps for deployement as mention below.
 
 
 ## ⭐ Deployment on AWS EC2 - 
@@ -66,4 +73,4 @@ Steps:
 5.Start the service
 
 ## ⭐License
-This project is licensed under the [NAME OF LICENSE] - see the LICENSE.md file for details
+This project is licensed under the Apache License 2.0 - see the LICENSE.md file for details
