@@ -1,12 +1,16 @@
+
 numpy
 Flask
 gunicorn
-sklearn
+scikit-learn ==0.24
 pandas
 PyYAML
 evidently
 dill
 matplotlib
 WTForms==3.0.0
+ipython
 
 # -e.
+
+

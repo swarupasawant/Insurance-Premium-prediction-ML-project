@@ -3,9 +3,9 @@ training_pipeline_config:
   artifact_dir: artifact
 
 data_ingestion_config:
-  dataset_download_url: https://github.com/swarupasawant/Insurance-Premiums/blob/main/archive-_2_.tgz?raw=true
+  dataset_download_url: https://github.com/swarupasawant/Insurance-Premium-prediction-ML-project/blob/main/archive-_2_.tgz?raw=true
   # dataset_download_url: https://raw.githubusercontent.com/ageron/handson-ml/master/datasets/housing/housing.tgz
-  raw_data_dir: raw_data
+  raw_data_dir: raw_data   
   tgz_download_dir: tgz_data
   ingested_dir: ingested_data
   ingested_train_dir: train

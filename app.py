@@ -58,7 +58,8 @@ def train():
                 Contact No : {},\n
                 Email ID : {},\n 
             '''.format("(231) 959-4915", "insuranceinfo@gmail.com")
-    return render_template('header.html',res_str)
+    return res_str
+    return render_template('header.html')
 
 
 @app.route('/predict', methods=['GET', 'POST'])
