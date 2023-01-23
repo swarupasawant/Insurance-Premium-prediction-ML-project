@@ -1,6 +1,6 @@
-# Insurance-Premiums
+# Machine Learning : Insurance Premium Predication
 
-# Machine Learning 
+
 
 <p align="center">
 <img src="https://contentstatic.techgig.com/thumb/msid-78556739,width-460,resizemode-4/5-Machine-Learning-concepts-you-must-understand-to-clear-a-Data-Science-interview.jpg?107588" height="300" width="500">
@@ -17,10 +17,15 @@ the website will use that information to generate a premium estimate. Users can 
 ### ⭐ Prerequisites
 
 1.Python 3.6 or higher
+
 2.Pandas
+
 3.Scikit-learn
+
 4.Numpy
+
 5.Flask
+
 6.Pickle
 
 
@@ -67,9 +72,13 @@ This tool can be deployed to a web server for use by a wider audience. Additiona
 
 Steps:
 1.Connect to your EC2 instance using SSH.
+
 2.Install the required packages on the instance.
+
 3.Configure the web server to work with Flask.
+
 4.Configure the web server 
+
 5.Start the service
 
 ## ⭐License
