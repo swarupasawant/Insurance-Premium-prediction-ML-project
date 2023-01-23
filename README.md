@@ -17,11 +17,10 @@ personal health insurance
 ### ⭐ Software and account Requirement.
 
 1. Github Account
-2. Heroku Account
+2. AWS Account
 3. VS Code IDE
-4. GIT cli
-5. GIT Documentation
-6. Creating conda environment
+4. GIT Documentation
+5. Creating python environment
 
 
 ## ⭐ Components
